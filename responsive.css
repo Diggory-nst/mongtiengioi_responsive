@@ -1,0 +1,13 @@
+/* Mobile and Tablet */
+@media (max-width:1199px) {
+    #right {
+        margin-top: 60px;
+    }
+
+    #news {
+        margin-bottom: 60px;
+    }
+}
+
+/* MObile */
+@media (max-width: 575px) {}
